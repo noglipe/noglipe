@@ -19,8 +19,7 @@ resultado e performace.
 
 ### Skills:
 
-<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
-<img alt="React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/React.svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg"> <img alt="React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/React.svg">
 
 ### t
 <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
