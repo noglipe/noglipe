@@ -19,9 +19,20 @@ resultado e performace.
 
 ### Skills:
 
-<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg"> <img alt="React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/React.svg">
+<img alt="Linux" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Linux.svg"> <img alt="Windows" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Windows.svg">
+<img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg"> 
+<img alt="Django" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Django.svg"> 
+<img alt="HTML" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/HTML.svg"> 
+<img alt="CSS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/CSS.svg"> 
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg"> <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/React.svg"> <img alt="NextJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/NextJS.svg"> 
 
-### t
+<img alt="GIT" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/GIT.svg"> 
+<img alt="Github" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Github.svg"> 
+<img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Postgresql.svg"> 
+
+<img alt="Power BI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Power BI.svg"> 
+
+
 <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
